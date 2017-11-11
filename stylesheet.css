@@ -5,7 +5,7 @@ body{
 }
 .container {
 display: block;
-height: 100vh;
+height: 70vh;
 width: 100vw;
 }
 .green {
@@ -20,13 +20,13 @@ width: 100vw;
 .purple {
 background-color: #7D33FF;
 display: flex;
-  height: 80vh;
+  height: 50vh;
   width: 50vw;
 }
 .blue {
   background-color: #3633FF;
   display: flex;
-  height: 80vh;
+  height: 50vh;
   width: 50vw;
 }
 .button {
