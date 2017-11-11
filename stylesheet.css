@@ -14,24 +14,24 @@ width: 100vw;
 }
 .yellow {
 	display: flex;
-	height: calc(20vh - 6px);
+	height: calc(20.2vh - 4px);
 	width: 100vw;
 }
 .purple {
 background-color: #7D33FF;
 display: flex;
-  height: 50vh;
+  height: 80vh;
   width: 50vw;
 }
 .blue {
   background-color: #3633FF;
   display: flex;
-  height: 50vh;
+  height: 80vh;
   width: 50vw;
 }
 .button {
 	background-color: #FF33E3;
-	height: 20vh;
+	height: 19vh;
 	width: 10vw;
 	margin: auto;
   border: 3px solid green;
