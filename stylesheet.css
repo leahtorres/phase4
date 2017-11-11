@@ -15,6 +15,7 @@ width: 100vw;
 .yellow {
 	display: flex;
 	height: calc(20vh - 6px);
+	width: 100vw;
 }
 .purple {
 background-color: #7D33FF;
@@ -31,7 +32,7 @@ display: flex;
 .button {
 	background-color: #FF33E3;
 	height: 20vh;
-	width: 100vw;
+	width: 10vw;
 	margin: auto;
   border: 3px solid green;
 }
